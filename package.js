@@ -1,8 +1,8 @@
 Package.describe({
-  name: "timbrandin:autoform-slingshot",
+  name: "steveturner:autoform-slingshot",
   summary: "File upload for AutoForm with Slingshot",
   description: "File upload for AutoForm with Slingshot",
-  version: "1.1.1",
+  version: "1.1.2",
   git: "http://github.com/timbrandin/autoform-slingshot.git"
 });
 
